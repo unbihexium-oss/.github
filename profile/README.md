@@ -6,9 +6,9 @@ Unbihexium OSS Foundation is an open-source organization focused on Earth Observ
 |------|------|
 | Website | https://unbihexium.org |
 | GitHub Organization | https://github.com/unbihexium-oss |
-| Contact (public) | mailto:opensource@unbihexium.org |
-| Security contact | mailto:security@unbihexium.org |
-| Sponsorship updates | mailto:sponsors@unbihexium.org |
+| Contact (public) | opensource@unbihexium.org |
+| Security contact | security@unbihexium.org |
+| Sponsorship updates | sponsors@unbihexium.org |
 
 ## Mission
 
